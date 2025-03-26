@@ -1,1 +1,5 @@
-an ecommerce website similar to Amazon
+Develop an e-commerce website that al-
+lows customers to search for products, add them to a
+cart, and securely complete purchases. The system should
+support personalized recommendations and handle high
+traffic during peak sale events.
