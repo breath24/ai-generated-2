@@ -1,0 +1,3 @@
+The system must be secure and
+provide a reasonable performance. Technology stack:
+Next.js, Supabase, Netlify.
